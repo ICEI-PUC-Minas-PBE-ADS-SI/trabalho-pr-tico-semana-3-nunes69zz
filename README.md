@@ -10,8 +10,8 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 - Nome: Pedro Nunes Cruz
 - Matricula: 890508
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Proposta de projeto escolhida: Portal de Notícias
+- Breve descrição sobre seu projeto: 
 
 
 ## Print do esboço criada

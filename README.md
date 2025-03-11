@@ -8,8 +8,8 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Pedro Nunes Cruz
+- Matricula: 890508
 - Proposta de projeto escolhida:
 - Breve descrição sobre seu projeto:
 

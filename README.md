@@ -10,15 +10,15 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 - Nome: Pedro Nunes Cruz
 - Matricula: 890508
-- Proposta de projeto escolhida: Portal de Notícias
-- Breve descrição sobre seu projeto: 
+- Proposta de projeto escolhida: Diretório de receitas
+- Breve descrição sobre seu projeto: Site com receitas e definido em partições para quem quer acessar somente uma receita específica.
 
 
 ## Print do esboço criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+![alt text](esboço.jpg)
 
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+[text](README.md)

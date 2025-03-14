@@ -1,3 +1,135 @@
 body {
-    background-color: aquamarine;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: linear-gradient(to bottom, orange, orangered, yellow);
+}
+
+header,
+footer {
+    width: 100%;
+    text-align: center;
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 24px;
+    flex: 1;
+    text-align: left;
+}
+
+header .search-form {
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    flex: 1;
+    
+}
+
+header .header-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    padding: 0 20px;
+}
+
+.main-container {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    margin: 20px 0;
+    padding: 0 20px;
+}
+
+main {
+    flex: 1;
+    margin: 0 20px;
+    max-width: 800px;
+    background-color: white;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+aside {
+    width: 200px;
+    margin-right: 20px;
+    background-color: #fff;
+    padding: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+}
+
+.aside-box {
+    background-color: #f9f9f9;
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    flex: 1; 
+    background: linear-gradient(orange, orangered);
+}
+
+.teste {
+    background-color: #fff;
+    width: 200px;
+    margin-left: 20px;
+    padding: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.teste3 {
+    display: flex;
+    align-items: flex-start;
+    margin: 20px 0;
+}
+
+.teste3 img {
+    width: 150px;
+    height: auto;
+    border-radius: 8px;
+    margin-right: 20px;
+}
+
+.teste3 p {
+    text-align: justify;
+    margin-top: 0;
+}
+
+.search-form input[type="text"] {
+    padding: 5px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.search-form button {
+    padding: 5px 10px;
+    font-size: 16px;
+    border: none;
+    border-radius: 4px;
+    background-color: #007BFF;
+    color: white;
+    cursor: pointer;
+    margin-left: 5px;
+}
+
+.search-form button:hover {
+    background-color: #0056b3;
+}
+
+footer {
+    padding: 20px 0;
+    background-color: #333;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
 }
